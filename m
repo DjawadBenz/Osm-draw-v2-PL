@@ -1,2 +1,0 @@
-pl draw osm
-imgsssss
